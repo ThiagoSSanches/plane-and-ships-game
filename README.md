@@ -1,5 +1,4 @@
-# projeto-0123
-Projeto0123
+# plane-and-ships-game
 My first project done as a Alura student, 
 thanks to the knowledge acquired after completing some courses offered there, 
 in particular the course "Lógica de programação: laços e listas com JavaScript",
